@@ -59,3 +59,21 @@
   - `prefix`: cadena con el que se mostrará el snippet.
   - `body`: el código que será introducido. Se pueden meter variables con `$` más un índice. Se le puede dar valores por defecto a las variables con `${índice:valor}`. Una vez introducido el snippet se podrá navegar entre las variables con `TAB` en el orden que se le haya puesto. Si no tiene variables, el cursor se pondrá al final del código introducido.
   - `descripction`: es opcional, sirve para indicar la funcionalidad del snippet.
+
+## Extensiones
+
+- TODO Tree: Añadir en las settings `**/node_modules/**` en `Exclude Globs`.
+- Bookmarks: Podemos añadir o quitar una marca con `Ctrl + Alt + K`.
+- Color Highlight: poner en `Marker Type` el valor `dot-before`.
+- Bracket Pair Colorizer 2: añadir en el settings la siguiente configuración.
+
+  ```json
+  "bracket-pair-colorizer-2.colors": [
+      "#d4d4d4",
+      "#358cd6",
+      "#4bbda6",
+      "#dcdc8b",
+      "#8cdcfe",
+      "#c586c0"
+  ]
+  ```

@@ -44,3 +44,18 @@
 - Lowercase: `Ctrl + Alt + X`.
 - Uppercase: `Ctrl + Shift + X`.
 - Siguiente ocurrencia: `Ctrl + D`.
+- Mover cursor a la siguiente ocurrencia: `Ctrl + F3`.
+- Mover cursor a la anterior ocurrencia: `Ctrl + Shift + F3`.
+
+## Definiciones y Snippets
+
+- Ver definicion: `Ctrl + P @` o `Ctrl + Shift + O`.
+- Ver definiciones agrupadas: `Ctrl + P @:` o `Ctrl + Shift + O :`.
+- Ir a una línea: `Ctrl + P : número de línea` o `Ctrl + G`.
+- Preview Markdown: `Ctrl + Shift + P` o `F1` y poner `Markdown Open Preview` o `Markdown Open Preview to the side`, este último permite ver los cambios en tiempo real.
+- Reemplazar símbolo: para cambiarlo de forma local, con lo que queramos cambiar seleccionamos, pulsamos `F2`. Para cambiarlo de forma global, hacerlo en el archivo principal.
+- Crear snippets: `Ctrl + Shift + P` y poner `Configure User Snippets` y elegir el lenguaje para el que queramos crear el snippet. El snippet está compuesto por varias partes:
+  - Nombre del snippet.
+  - `prefix`: cadena con el que se mostrará el snippet.
+  - `body`: el código que será introducido. Se pueden meter variables con `$` más un índice. Se le puede dar valores por defecto a las variables con `${índice:valor}`. Una vez introducido el snippet se podrá navegar entre las variables con `TAB` en el orden que se le haya puesto. Si no tiene variables, el cursor se pondrá al final del código introducido.
+  - `descripction`: es opcional, sirve para indicar la funcionalidad del snippet.

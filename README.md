@@ -31,6 +31,10 @@
 - Cambiar a la pestaña anterior: `Ctrl + Shift + TAB`.
 - Crear nueva división: `Ctrl + número de divisiones + 1`.
 - Navegar a división: `Ctrl + número de división`.
+- Comprimir todos los bloques de código: `Ctrl + K Ctrl + 0`.
+- Descomprimir todos los bloques de código: `Ctrl + K Ctrl + J`.
+- Comprimir todos los bloques menos el actual: `Ctrl + K Ctrl + 1`.
+- Comprimir bloques por nivel: `Ctrl + K Ctrl + 2-9`.
 
 ## Multi cursores y edición rápida
 
@@ -38,6 +42,7 @@
 - Multi cursor básico: `Ctrl + Shift + Alt + ↑ / ↓`.
 - Multi cursor en un punto concreto: `Alt + Click`.
 - Seleccionar palabras: `Ctrl + Shift + ← / →`.
+- Seleccionar línea completa con salto de línea: `Ctrl + L`.
 - Seleccionar fila desde el principio: `Shift + Fin`.
 - Seleccionar fila desde el final: `Shift + Inicio`.
 - Seleccionar desde el cursor hasta el principio del documento: `Ctrl + Shift + Inicio`.

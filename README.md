@@ -7,6 +7,7 @@
 - Cortar: `Ctrl + X`.
 - Pegar: `Ctrl + V`.
 - Modo navegación: `Alt`.
+- Desplazamiento entre palabras: `Ctrl + ← / →`.
 - Mover línea o líneas seleccionada: `Alt + ↑ / ↓`.
 - Comentar línea o líneas seleccionadas: `Ctrl + Ç`.
 - Comentar código seleccionado o crear comentario en la posición del cursor: `Shift + Alt + A`.
@@ -60,7 +61,9 @@
 - Clonar líneas: `Shift + Alt + ↑ / ↓`.
 - Multi cursor básico: `Ctrl + Shift + Alt + ↑ / ↓`.
 - Multi cursor en un punto concreto: `Alt + Click`.
+- Seleccionar todo: `Ctrl + A`.
 - Seleccionar palabras: `Ctrl + Shift + ← / →`.
+- Seleccionar palabra completa sin importar posición del cursor: `Shift + Alt + ← / →`.
 - Seleccionar línea completa con salto de línea: `Ctrl + L`.
 - Seleccionar fila desde el principio: `Shift + Fin`.
 - Seleccionar fila desde el final: `Shift + Inicio`.

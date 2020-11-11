@@ -2,6 +2,11 @@
 
 ## Ediciones y tips básicos
 
+- Abrir página con todos los atajos: `Ctrl + K Ctrl + R`.
+- Copiar: `Ctrl + C`.
+- Cortar: `Ctrl + X`.
+- Pegar: `Ctrl + V`.
+- Modo navegación: `Alt`.
 - Mover línea o líneas seleccionada: `Alt + ↑ / ↓`.
 - Comentar línea o líneas seleccionadas: `Ctrl + Ç`.
 - Comentar código seleccionado o crear comentario en la posición del cursor: `Shift + Alt + A`.
@@ -14,6 +19,7 @@
 - Deshacer cambios: `Ctrl + Z`.
 - Rehacer cambios: `Ctrl + Shift + Z` o `Ctrl + Y`.
 - Mostrar u ocultar barra lateral: `Ctrl + B`.
+- Mostrar u ocultar panel inferior: `Ctrl + J`.
 - Entrar en Zen mode: `Ctrl + K Z`.
 - Salir del Zen mode: `F11`.
 - Buscar archivos: `Ctrl + P`.
@@ -26,6 +32,8 @@
 - Abrir ventana shortcuts: `Ctrl + K Ctrl + S`.
 - Cerrar pestaña: `Ctrl + W`.
 - Cerrar todas las pestañas: `Ctrl + K Ctrl + W`.
+- Cerrar carpeta: `Ctrl + K F`.
+- Cerrar editor: `Ctrl + F4`.
 - Reabrir pestaña anterior: `Ctrl + Shift + T`.
 - Cambiar a la pestaña siguiente: `Ctrl + TAB`.
 - Cambiar a la pestaña anterior: `Ctrl + Shift + TAB`.
@@ -35,6 +43,17 @@
 - Descomprimir todos los bloques de código: `Ctrl + K Ctrl + J`.
 - Comprimir todos los bloques menos el actual: `Ctrl + K Ctrl + 1`.
 - Comprimir bloques por nivel: `Ctrl + K Ctrl + 2-9`.
+- Explorador: `Ctrl + Shift + E`.
+- Búsqueda: `Ctrl + F`.
+- Búsqueda en archivos: `Ctrl + Shift + F`.
+- Reemplazar: `Ctrl + H`.
+- Reemplazar en archivo: `Ctrl + Shift + H`.
+- Control versiones: `Ctrl + Shift + G G`.
+- Run: `Ctrl + Shift + D`.
+- Crear nuevo archivo: `Ctrl + N`.
+- Crear nueva ventana: `Ctrl + Shift + N`.
+- Abrir archivo: `Ctrl + O`.
+- Abrir carpeta: `Ctrl + K Ctrl + O`.
 
 ## Multi cursores y edición rápida
 
